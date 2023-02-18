@@ -4,6 +4,7 @@ and number of copies of a book.
 ## Prerequisites
 It requires no prerequisites other than having Python installed to run the script.
 ## Installation and Usage
-The bookshop_inventory.py file can be downloaded to your local machine and run from the Command Line with the command `python bookshop_inventory.py`.
+The bookshop_inventory.py file can be downloaded to your local machine and run from the Command Line with the following command: `python bookshop_inventory.py`.
+<br>
 <br>
 ![Program Screenshot](images/program_screenshot.png)
